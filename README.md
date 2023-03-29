@@ -21,8 +21,6 @@ This is a solution to the [Clipboard landing page](https://www.frontendmentor.io
 ### Screenshot
 
 ![Desktop](./screenshot.jpg)
-![Mobile](./mobile-design.jpg)
-
 
 ### Links
 
