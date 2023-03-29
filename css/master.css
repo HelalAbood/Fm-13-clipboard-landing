@@ -3,3 +3,24 @@
 body { 
     margin: 0;
 }
+.contanair {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+@media (min-width: 768px) { 
+    .contanair { 
+        width: 750px;
+    }
+}
+@media (min-width: 998px) { 
+    .contanair { 
+        width: 970px;
+    }
+}
+@media (min-width: 1200px) { 
+    .contanair { 
+        width: 1170px;
+    }
+}
