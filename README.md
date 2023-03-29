@@ -32,6 +32,7 @@ This is a solution to the [Clipboard landing page](https://www.frontendmentor.io
 ### Built with
 
 - Semantic HTML5 markup
+- FontAwesome
 - CSS custom properties
 - BootStrap 3
 - Flexbox
