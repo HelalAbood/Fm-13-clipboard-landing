@@ -26,7 +26,7 @@ This is a solution to the [Clipboard landing page](https://www.frontendmentor.io
 
 ### Links
 
-- Solution URL: [https://github.com/HelalAbood/Fm-13-clipboard-landing](https://github.com/HelalAbood/Fm-13-clipboard-landing)
+- Repo URL: [https://github.com/HelalAbood/Fm-13-clipboard-landing](https://github.com/HelalAbood/Fm-13-clipboard-landing)
 
 
 ## My process
