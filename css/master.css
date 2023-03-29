@@ -192,3 +192,41 @@ main .landing .flex-holder h3 {
         margin-top: 45px;
     }
 }
+
+
+@media (max-width: 767px) {
+    .contanair.header h2.spi {
+        width: 300px;
+        text-transform: capitalize;
+        text-align: center;
+    }
+}
+
+
+main .contanair.devices {
+    text-align: center;
+}
+main .contanair.devices img {
+    max-width: 550px;
+}
+@media (max-width: 767px) { 
+    main .contanair.devices img { 
+        width: 310px;
+        padding: 30px 0;
+    }
+}
+
+main .contanair.header p.hot { 
+    margin: 13px auto 60px;
+}
+main .contanair.content { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+@media (max-width: 767px){ 
+    main .contanair.content { 
+        flex-direction: column;
+    }
+}
