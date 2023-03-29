@@ -350,6 +350,7 @@ footer .contanair .icons {
 footer .contanair .icons i {
     margin-left: 15px;
     font-size: 22px;
+    color: var(--Dark-Grayish-Blue);
 }
 @media (max-width: 767px) { 
     footer .contanair .icons i { 
