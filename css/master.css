@@ -230,3 +230,45 @@ main .contanair.content {
         flex-direction: column;
     }
 }
+main .contanair.content .content img { 
+    width: 38px;
+}
+main .contanair.content .content h3{
+    color: var(--Dark-Grayish-Blue);
+    margin: 30px auto -3px;
+}
+main .contanair.content .content p { 
+    text-align: center;
+    font-size: 14px;
+    max-width: 310px;
+    line-height: 1.6;
+    color: var(--Grayish-Blue);
+} 
+@media (max-width: 767px) { 
+    main .contanair.content .content { 
+        margin-top: 20px;
+    }
+}
+
+
+main .contanair.partners { 
+    padding: 80px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+@media (max-width: 767px) { 
+    main .contanair.partners { 
+        flex-direction: column;
+    }
+}
+main .contanair.partners img { 
+    width: 130px;
+    margin: 0 -80px;
+}
+@media (max-width: 767px) { 
+    main .contanair.partners img { 
+        width: 160px;
+        margin: 40px auto;
+    }
+}
